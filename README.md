@@ -8,4 +8,13 @@ Two player Tetris game. Two players face each other in a tetris game on a single
 
 ## Usage
 
+##### Keys for left player
+* W to move up, S to move down
+* D for soft drop, A for hard drop
+* Q for left rotate, E for right rotate
+
+##### Keys for right player
+* Numpad8 for up, Numpad5 for down
+* Numpad4 for soft drop, Numpad6 for hard drop
+* Numpad7 for left rotate, Numpad9 for right rotate
 
